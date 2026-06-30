@@ -12,7 +12,7 @@
 ---
 
 <div align= "center">
-  <img width="1280" height="720" alt="Github Profile GIF(2)" src="https://github.com/user-attachments/assets/43fadba2-54a9-4bda-8035-f0139ff3b570" />
+ <img width="1280" height="720" alt="Github Profile GIF(2)" src="https://github.com/user-attachments/assets/58a4dbeb-7011-4a4a-ae93-0b9027dbef7a" />
 </div>
 
 ---
