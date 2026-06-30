@@ -1,16 +1,93 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Do Xuan Hai</h1>
 
-<!--
-**dxhai17/dxhai17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+🚀 Computer Science Student
+</h3>
+<div align="center">
+   
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FF226500&center=true&vCenter=true&width=435&lines=FULLSTACK+DEVELOPER+;WHY+ISN'T+MY+CODE+RUNNING+%3F;AND+WHY+IS+IT+RUNNING+NOW+%3F)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div align= "center">
+  <img width="1280" height="720" alt="Github Profile GIF(2)" src="https://github.com/user-attachments/assets/43fadba2-54a9-4bda-8035-f0139ff3b570" />
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🌱 Currently learning **React Native, Node.js, TypeScript**
+- 💬 Ask me about **JavaScript, React, Node.js**
+- 🎯 Goal: Become a **Fullstack Mobile Developer**
+- 🎸 Fun fact: **I love playing guitar but it really hard to me 😅**
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.facebook.com/odohai17" target="_blank">
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" 
+    height="50"
+  />
+</a>
+
+<a href="https://instagram.com/odo_hai.17" target="_blank">
+  <img 
+    src="https://skillicons.dev/icons?i=instagram" 
+    height="50"
+  />
+</a>
+
+</div>
+
+---
+
+## 🛠️ Languages and Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,js,html,css,nodejs,react,postgresql,git,github,vscode" />
+
+</div>
+
+---
+
+## ⚙ Operating System
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,ubuntu" />
+
+</div>
+
+---
+
+## 👻 Contribution Pacman
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HaiZumZan/HaiZumZan/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HaiZumZan/HaiZumZan/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HaiZumZan/HaiZumZan/output/pacman-contribution-graph.svg">
+</picture>
+
+</div>
+
+---
+
+## 📫 Contact
+
+<div align="center">
+
+<a href="mailto:minhtien0601200@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+</div>
